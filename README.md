@@ -5,7 +5,7 @@ Citation information will be added upon publication. This manuscript is currentl
 In this study, we analyzed three main datasets. (1) Poly(A) selected RNA from non-crosslinked HeLa cells, (2) Poly(A) selected RNA from UV-crosslinked HeLa cells, and (3) Poly(A) selected RNA from the AGPC interphase of UV-crosslinked HeLa cells. 
 
 This repository contains the analysis scripts used to generate the
-RNA-seq figures and tables in [citation/DOI here]. It covers
+RNA-seq figures in the associated manuscript. It covers
 differential expression, RNA biotype composition, transcript length
 analysis, GO Molecular Function enrichment, and replicate correlation
 for two comparisons:
@@ -15,11 +15,6 @@ for two comparisons:
 
 NC is the reference/control condition in both comparisons. Each
 condition has 3 biological replicates.
-
-## Citation
-
-<!-- Add: full citation once published, e.g. -->
-<!-- Author et al. (Year). Title. Journal. DOI: xx.xxxx/xxxxx -->
 
 
 ## Data availability
